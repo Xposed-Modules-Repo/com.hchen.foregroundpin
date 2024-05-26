@@ -2,7 +2,7 @@
 <h1>ForegroundPin</h1>
 
 ![stars](https://img.shields.io/github/stars/HChenX/ForegroundPin?style=flat)
-![downloads](https://img.shields.io/github/downloads/HChenX/ForegroundPin/total)
+![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.hchen.foregroundpin/total)
 ![Github repo size](https://img.shields.io/github/repo-size/HChenX/ForegroundPin)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/HChenX/ForegroundPin)](https://github.com/HChenX/ForegroundPin/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/HChenX/ForegroundPin)](https://github.com/HChenX/ForegroundPin/releases)
